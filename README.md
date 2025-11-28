@@ -39,3 +39,4 @@ ScaledBorderAndShadow: yes
   - 姐姐来了
   - 乐园追放
   - 漫画家与助手
+  - 斩·赤红之瞳
