@@ -34,3 +34,4 @@ ScaledBorderAndShadow: yes
 - 2014
   - Buddy Complex
   - 搞姬日常
+  - 棺姬嘉依卡
