@@ -18,3 +18,8 @@
 ScaledBorderAndShadow: yes
 
 ## 番剧列表
+
+- 2007
+  - 日在校园
+- 2010
+  - 亲吻姐姐
