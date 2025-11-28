@@ -25,3 +25,5 @@ ScaledBorderAndShadow: yes
   - 亲吻姐姐
   - 闪亮的塔科特
   - 守护猫娘绯鞠
+- 2011
+  - 迷茫管家与懦弱的我
