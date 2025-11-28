@@ -24,3 +24,4 @@ ScaledBorderAndShadow: yes
 - 2010
   - 亲吻姐姐
   - 闪亮的塔科特
+  - 守护猫娘绯鞠
