@@ -51,3 +51,5 @@ ScaledBorderAndShadow: yes
   - 笨女孩
 - 2018
   - DARLING in the FRANXX
+- 2019
+  - 鬼灭之刃
