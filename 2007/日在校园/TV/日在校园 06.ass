@@ -15,7 +15,7 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,方正准圆_GBK,27,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.7,0.3,2,10,10,7,134
+Style: Default,苹方-简,28,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.7,0.3,2,10,10,7,134
 Style: zhushi,方正准圆_GBK,22,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,8,30,30,10,134
 Style: STAFF,方正大黑_GBK,22,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,105,105,0,0.00,1,2,0,2,30,30,10,134
 Style: OPJ,MS Gothic,22,&H00FFFFFF,&HF0000000,&H00DC9C58,&HF0000000,1,0,0,0,100,100,0,0.00,1,2,0,7,25,25,15,135
