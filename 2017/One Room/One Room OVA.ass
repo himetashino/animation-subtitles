@@ -22,7 +22,7 @@ Video Position: 5640
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,楷体,75,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100,0,0,1,3,0,2,90,90,30,134
-Style: one room-text,方正准圆_GBK,75,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.8,0.9,2,10,10,18,1
+Style: one room-text,苹方-简,75,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.8,0.9,2,10,10,18,1
 Style: one room-title1,幼圆,60,&H00FFFFFF,&H000000FF,&H00B680D6,&H00000000,0,0,0,0,100,100,0,0,1,1.5,2.25,2,15,15,30,1
 Style: one room-sub,幼圆,45,&H00FFFFFF,&H000000FF,&H00B680D6,&H00000000,0,0,0,0,100,100,0,0,1,1.5,2.25,8,15,15,30,1
 Style: one room-staff,方正准圆_GBK,48,&H00FFFFFF,&H000000FF,&H00EA5D22,&H00000000,0,0,0,0,100,100,0,0,1,2.25,2.25,8,15,15,30,1
