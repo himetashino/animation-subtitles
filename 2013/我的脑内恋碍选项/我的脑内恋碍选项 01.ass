@@ -23,7 +23,7 @@ Active Line: 1
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: ED-CH,浪漫雅圆,36,&H00000100,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,20,20,20,1
 Style: ED-JP,DFMaruGothic_U-Bd,37,&H00000100,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
-Style: Default,浪漫雅圆,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
+Style: Default,苹方-简,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
 Style: music,浪漫雅圆,35,&H00FFFFFF,&HF0FF9999,&H00FF00FF,&H8000CCFF,0,0,0,0,100,100,0,0,1,3,0,9,25,25,15,1
 Style: note,浪漫雅圆,37,&H00FFFFFF,&H30000000,&H30000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,30,30,10,1
 
