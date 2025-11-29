@@ -21,7 +21,7 @@ Video Position: 3902
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,萝莉体 第二版,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
+Style: Default,苹方-简,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
 Style: P1,@萝莉体 第二版,80,&H00020202,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,-90,1,0,0,2,10,10,10,1
 Style: staff,微软雅黑,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
 Style: 注,微软雅黑,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,10,10,10,1
