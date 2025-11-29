@@ -19,7 +19,7 @@ Script Updated By: no大的奴隸
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,华康魏碑W7(P),50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
+Style: Default,苹方-简,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,0.6,2,10,10,12,1
 Style: title,@方正中雅宋_GBK,60,&H1EFFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,270,1,0,0,2,10,10,10,1
 Style: OPEDJP,CRPＣ＆Ｇ半古印,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,20,20,20,1
 Style: OPEDCH,文鼎古印体,37,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,20,20,20,1
