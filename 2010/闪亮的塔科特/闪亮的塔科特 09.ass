@@ -27,7 +27,7 @@ Style: EDCN1,FZXiaoBiaoSong-B05,25,&H00FFFFFF,&H00000000,&H00BA18C2,&H28A6177E,-
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:04:03.90,0:04:06.22,title,NTP,0000,0000,0000,,{\an3\fad(1300,0)\pos(734,400)\blur4}（水野其人的初恋）
+Dialogue: 0,0:04:03.90,0:04:06.22,title,NTP,0000,0000,0000,,{\an3\fad(1300,0)\pos(734,400)}（水野其人的初恋）
 Comment: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,//---------------------------------OPCN1-----------------------------------
 Dialogue: 0,0:01:14.22,0:01:17.37,OPCN1,NTP,0000,0000,0000,,{\fad(0,200)\be1}如伊卡洛斯一般
 Dialogue: 0,0:01:17.65,0:01:22.00,OPCN1,NTP,0000,0000,0000,,{\fad(0,200)\be1}那份纯真的勇气如今已不在
